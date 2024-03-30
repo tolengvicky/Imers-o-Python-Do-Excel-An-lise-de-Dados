@@ -32,4 +32,6 @@
 </p>
 
 <h3>Extras</h3>
-<a href=“https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?_gl”>O que é o Google Colab?</a>
+<p>
+<a href=“https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?_gl”>O que é o Google Colab? </a>
+</p>
