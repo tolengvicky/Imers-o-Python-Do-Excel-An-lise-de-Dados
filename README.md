@@ -33,5 +33,6 @@
 
 <h3>Extras</h3>
 <p>
-[Link 1] https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?
+[Link 1- Google Colab] https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?
 </p>
+<p>[Link 2 Biblioteca Pandas- https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?</p>
