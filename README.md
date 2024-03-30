@@ -33,5 +33,5 @@
 
 <h3>Extras</h3>
 <p>
-[Link 1 https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?_gl=1*otlyxv*_ga*MTA3MzUwNDk2MS4xNjU2OTQ1NTYw*_ga_1EPWSW3PCS*MTcxMTc2MTMxNy43LjEuMTcxMTc2MjIzOS4wLjAuMA..*_fplc*bVFJSW4lMkZ0VzJMV3dwb3BsNmRTSmpId2NHV0tBcXBmTGtFR0xaV1Jtd3ZXSHVSNkZvdCUyRnpOa2dUT1lnWEFMdmJkUlhWVWNBNlQwQTFsUyUyQkdLWkxtcXBza29mZmh0QlUwR0Q0elRjaGk4dTl4bUpUOElVUW1NSDZEZXBUS3NRJTNEJTNE
+[Link 1] https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?
 </p>
