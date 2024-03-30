@@ -33,5 +33,5 @@
 
 <h3>Extras</h3>
 <p>
-<a href=“https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?_gl”>O que é o Google Colab? </a>
+<a href=“https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?”>O que é o Google Colab? </a>
 </p>
