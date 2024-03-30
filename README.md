@@ -7,7 +7,26 @@
 - Analisar as bases de variações na B3;
 - Fazer análises exploratórias pelo Google Sheets com fórmulas
 - Usar o Chat GPT;</p>
+
 <h3>Desafio 🏁</h3>
-<p>Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
-Pegar via Chat GPT as faixas de idade;
-Pedir para o GPT gerar a fórmula IF para as faixas de idade.</p>
+<p>
+-Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
+-Pegar via Chat GPT as faixas de idade;
+-Pedir para o GPT gerar a fórmula IF para as faixas de idade.
+</p>
+
+<h2>Aula 02🗒️ </h2>
+<p>Criação gráficos e tabelas no Google Sheets e, começar a manipulação de dados com Python Pandas pelo Google Colab</p>
+<p>Nesta aula
+-Gerar de tabelas e cálculos de estatísticas;
+-Criar gráficos no Google Sheets;
+-Conhecer o Google Colab;
+-Iniciar a manipulação de dados com Python Pandas.
+</p>
+
+<h3>Desafio 🏁</h3>
+<p>
+-Crie um gráfico de barras olhando a faixa etária e o valor da variação;
+-Faça outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
+-Explore os tipos de gráficos com os dados já feitos.
+</p>
