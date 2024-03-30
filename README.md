@@ -15,6 +15,11 @@
 -Pedir para o GPT gerar a fórmula IF para as faixas de idade.
 </p>
 
+<h3>Extras</h3>
+<p>
+  [Link 1 - Analise Exploratória] https://www.alura.com.br/artigos/analise-exploratoria?
+</p>
+
 <h2>Aula 02🗒️ </h2>
 <p>Criação gráficos e tabelas no Google Sheets e, começar a manipulação de dados com Python Pandas pelo Google Colab</p>
 <p>Nesta aula
