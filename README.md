@@ -7,3 +7,8 @@
 - Analisar as bases de variações na B3;
 - Fazer análises exploratórias pelo Google Sheets com fórmulas
 - Usar o Chat GPT;</p>
+<br></br>
+<h3>Desafio</h3>
+<p>Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
+Pegar via Chat GPT as faixas de idade;
+Pedir para o GPT gerar a fórmula IF para as faixas de idade.</p>
