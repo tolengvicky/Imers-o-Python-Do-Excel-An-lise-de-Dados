@@ -55,9 +55,9 @@
     <ul>
 </p>
 
-<h2>Aula 03🗒️ </h2>
+<h2>Aula 03🗒️</h2>
 <p>Manipulação de dados com Pandas no Colab por meio da transformação da planilha de ações e construção de gráficos com a biblioteca Plotly.
-  <p>Nesta aula:
+<p>Nesta aula:
   <ul>
      <li>Manipular dados com Pandas;
      <li>Transformar a planilha de ações com funções do Pandas;
