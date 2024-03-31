@@ -6,9 +6,12 @@
 <h2>Aula 01 🗒️</h2>
 <p>Analise da base da bolsa de valores explorando o Google Sheets, com VLOOKUP e IF</p>
 <p>Nesta aula:
-- Analisar as bases de variações na B3;
-- Fazer análises exploratórias pelo Google Sheets com fórmulas
-- Usar o Chat GPT;</p>
+  <ul>
+<li>Analisar as bases de variações na B3;</li>
+<li>Fazer análises exploratórias pelo Google Sheets com fórmulas</li>
+<li>Usar o Chat GPT;</li>
+</ul>
+</p>
 
 <h3>Desafio 🏁</h3>
 <p>
