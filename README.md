@@ -61,3 +61,12 @@
      <li>Usar o Chat GPT durante o código.
   </ul>
 </p>
+
+<h3>Desafio 🏁</h3>
+<p>
+   <ul>
+      <li>Pesquise com a documentação da biblioteca Plotly ou GPT como mudar a formatação dos números do gráfico de barras;
+      <li>Fazer o gráfico de pizza no df_análise_segmentos com a mesma biblioteca Potly;
+      <li>Fazer o GroupBy da categoria de idades e gerar o gráfico de barras.
+   </ul>
+</p>
