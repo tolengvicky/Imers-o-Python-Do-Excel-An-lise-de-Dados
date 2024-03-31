@@ -1,6 +1,8 @@
 <h1>Imersão Python: Do Excel à Análise de Dados da Alura</h1>
 <p>Este repositório contém conteúdos da Imersão Python: Do Excel à Análise de Dados da Alura, aonde adquiri o conhecimento de como usar Python na prática, desenvolvendo habilidades essenciais em análise de dados, transformando dados em insights valiosos.</p>
 
+![Arte3_Imerso_Python__1080x1080png](https://github.com/tolengvicky/Imersao-Python-Do-Excel-Analise-de-Dados/assets/79332374/d71d6621-5ca3-4a99-8277-e84166a975f4)
+
 <h2>Aula 01 🗒️</h2>
 <p>Analise da base da bolsa de valores explorando o Google Sheets, com VLOOKUP e IF</p>
 <p>Nesta aula:
