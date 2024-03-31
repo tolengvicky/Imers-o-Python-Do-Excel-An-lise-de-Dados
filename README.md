@@ -22,7 +22,7 @@
   [Link 1 - Analise Exploratória] https://www.alura.com.br/artigos/analise-exploratoria?
 </p>
 
-<h2>Aula 02🗒️ </h2>
+
 <p>Criação gráficos e tabelas no Google Sheets e, começar a manipulação de dados com Python Pandas pelo Google Colab</p>
 <p>Nesta aula
 -Gerar de tabelas e cálculos de estatísticas;
@@ -43,3 +43,6 @@
 [Link 1- Google Colab] https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?
 </p>
 <p>[Link 2 Biblioteca Pandas] https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?</p>
+
+<h2>Aula 03🗒️ </h2>
+<p>Manipulação de dados com Pandas no Colab por meio da transformação da planilha de ações e construção de gráficos com a biblioteca Plotly.</p>
