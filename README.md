@@ -7,17 +7,19 @@
 <p>Analise da base da bolsa de valores explorando o Google Sheets, com VLOOKUP e IF</p>
 <p>Nesta aula:
   <ul>
-<li>Analisar as bases de variações na B3;</li>
-<li>Fazer análises exploratórias pelo Google Sheets com fórmulas</li>
-<li>Usar o Chat GPT;</li>
-</ul>
+    <li>Analisar as bases de variações na B3;</li>
+    <li>Fazer análises exploratórias pelo Google Sheets com fórmulas</li>
+    <li>Usar o Chat GPT;</li>
+  </ul>
 </p>
 
 <h3>Desafio 🏁</h3>
 <p>
--Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
--Pegar via Chat GPT as faixas de idade;
--Pedir para o GPT gerar a fórmula IF para as faixas de idade.
+  <ul>
+    <li>Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses);
+    <li>Pegar via Chat GPT as faixas de idade;
+    <li>Pedir para o GPT gerar a fórmula IF para as faixas de idade.
+  </ul>
 </p>
 
 <h3>Extras</h3>
