@@ -27,27 +27,41 @@
   [Link 1 - Analise Exploratória] https://www.alura.com.br/artigos/analise-exploratoria?
 </p>
 
-
+<h2>Aula 02 🗒️</h2>
 <p>Criação gráficos e tabelas no Google Sheets e, começar a manipulação de dados com Python Pandas pelo Google Colab</p>
-<p>Nesta aula
--Gerar de tabelas e cálculos de estatísticas;
--Criar gráficos no Google Sheets;
--Conhecer o Google Colab;
--Iniciar a manipulação de dados com Python Pandas.
+<p>Nesta aula:
+  <ul>
+     <li>Gerar de tabelas e cálculos de estatísticas;
+     <li>Criar gráficos no Google Sheets;
+     <li>Conhecer o Google Colab;
+     <li>Iniciar a manipulação de dados com Python Pandas.
+  </ul>
 </p>
 
 <h3>Desafio 🏁</h3>
 <p>
--Crie um gráfico de barras olhando a faixa etária e o valor da variação;
--Faça outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
--Explore os tipos de gráficos com os dados já feitos.
+   <ul>
+      <li>Crie um gráfico de barras olhando a faixa etária e o valor da variação;
+      <li>Faça outro gráfico de barras com a faixa etária e a quantidade de empresas que estão em cada faixa etária;
+      <li>Explore os tipos de gráficos com os dados já feitos.
+   </ul>
 </p>
 
 <h3>Extras</h3>
 <p>
-[Link 1- Google Colab] https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?
+  <ul>
+      <li>[Link 1- Google Colab] https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar?
+      <li>[Link 2 Biblioteca Pandas] https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?
+    <ul>
 </p>
-<p>[Link 2 Biblioteca Pandas] https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar?</p>
 
 <h2>Aula 03🗒️ </h2>
-<p>Manipulação de dados com Pandas no Colab por meio da transformação da planilha de ações e construção de gráficos com a biblioteca Plotly.</p>
+<p>Manipulação de dados com Pandas no Colab por meio da transformação da planilha de ações e construção de gráficos com a biblioteca Plotly.
+  <p>Nesta aula:
+  <ul>
+     <li>Manipular dados com Pandas;
+     <li>Transformar a planilha de ações com funções do Pandas;
+     <li>Construir gráficos com a biblioteca Plotly Express;
+     <li>Usar o Chat GPT durante o código.
+  </ul>
+</p>
