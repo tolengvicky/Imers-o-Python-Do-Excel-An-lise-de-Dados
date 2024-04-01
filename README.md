@@ -70,3 +70,30 @@
       <li>Fazer o GroupBy da categoria de idades e gerar o gráfico de barras.
    </ul>
 </p>
+
+<h2>Aula 04🗒️</h2>
+<p>Construção de gráficos de velas com Matplotlib e realizar ações mais avançadas, como gráficos interativos com Plotly.</p>
+<p>Nesta aula: 
+  <ul>
+      <li>Criar gráficos de velas;
+      <li>Aprender a fazer gráficos interativos com Plotly.
+   </ul>
+</p>
+
+<h3>Desafio 🏁</h3>
+<p>
+   <ul>
+      <li>Pesquisar o que é uma tupla em Python;
+      <li>Buscar a ação da Apple e recriar o gráfico de Candlestick usando a biblioteca MPLFinance.
+   </ul>
+</p>
+
+<h3>Extras</h3>
+  <p>[Link 1- Gráficos Matplotib no Phyton] https://www.alura.com.br/artigos/criando-graficos-no-python-com-a-matplotlib?</p>
+  <p>[Link 2 - Guia do Usuário Matplotib] https://matplotlib.org/stable/users/index.html</p>
+  <p>[Link 3 - O que é uma API } https://www.alura.com.br/artigos/api?</p>
+
+
+
+
+  
