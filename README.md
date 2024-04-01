@@ -91,9 +91,21 @@
 <h3>Extras</h3>
   <p>[Link 1- Gráficos Matplotib no Phyton] https://www.alura.com.br/artigos/criando-graficos-no-python-com-a-matplotlib?</p>
   <p>[Link 2 - Guia do Usuário Matplotib] https://matplotlib.org/stable/users/index.html</p>
-  <p>[Link 3 - O que é uma API } https://www.alura.com.br/artigos/api?</p>
+  <p>[Link 3 - O que é uma API] https://www.alura.com.br/artigos/api?</p>
 
+<h2>Aula 05🗒️</h2>
+<p>introduzir o Machine Learning com Prophet para além de todas as ferramentas já aprendidas durante a Imersão</p>
+<p>Nesta aula: 
+  <ul>
+      <li>Ter uma introdução ao Machine Learning;
+      <li>Revisar ferramentas aprendidas durante a Imersão;
+      <li>Conhecer mais sobre as carreiras no mercado de dados.</li>
+   </ul>
+</p>
 
+<h3>Extras</h3>
+  <p>[Link 1- O Que é MAchine Learning?] https://www.alura.com.br/artigos/machine-learning?</p>
+  <p>[Link 2 - Desmistificando termos de Marchine Learning] https://www.alura.com.br/artigos/desmistificando-termos-machine-learning?</p>
 
 
   
