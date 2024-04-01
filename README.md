@@ -104,7 +104,7 @@
 </p>
 
 <h3>Extras</h3>
-  <p>[Link 1- O Que é MAchine Learning?] https://www.alura.com.br/artigos/machine-learning?</p>
+  <p>[Link 1- O Que é Machine Learning?] https://www.alura.com.br/artigos/machine-learning?</p>
   <p>[Link 2 - Desmistificando termos de Marchine Learning] https://www.alura.com.br/artigos/desmistificando-termos-machine-learning?</p>
 
 
